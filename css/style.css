@@ -311,9 +311,9 @@ background-color: rgba(0, 0, 0, 0.1);
 
 }
 
-.bookmarkHeaderTitle {
+.bookmarkHeaderTitle h3 {
 width: 330px;
-font-size: 18px;
+font-size: 24px;
 font-weight: 300 !important;
 color: grey;
 border-bottom: 10px solid #24ba9f;
@@ -440,7 +440,7 @@ text-align: center;
 }
 
 #pricePLN {
-color: grey;
+color: lightgrey;
 width: 100%;
 text-align: center;
 margin-top: 4px;
@@ -508,8 +508,9 @@ height: 400px;
 
 }
 
-.formHeaderTitle {
-	font-size: 18px;
+.formHeaderTitle h3 {
+	font-size: 24px;
+	font-weight: 300;
 	color: black;
 	border-bottom: 10px solid #24ba9f;
 	width: 330px;
@@ -688,7 +689,6 @@ margin-left: 13%;
 	background-repeat: no-repeat;
 	float: left;
 	margin-right: 4px;
-
 
 }
 
